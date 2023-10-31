@@ -1,0 +1,53 @@
+{
+    "sifyapp" : {
+        "app_name" : "SIFY",
+        "app_cd" : "SIFYBSS",
+        "app_id":"",
+        "app_port":3500,
+        "banner":false,
+        "client_dir":{
+                        "dev":"client/app",
+                        "prod":"client/dist"
+                    },
+        "server_dir":"server",
+        "log_dir":"log",
+        "audit_requests":true,
+        "audit_dir":"audit",
+        "metrics_dir":"audit/metrics",
+        "temp_dir":"temp",
+        "audit_restart_log":"restart_audit",
+        "debug_level":"INFO",
+        "generate_sitemap":false,
+        "app_in_maintanance":false,
+        "api_in_maintanance":false,
+        "stats_moditor":{ "api":true,
+                          "api_log":"api_audit",
+                          "db":true,
+                          "db_log":"db_audit",
+                          "api_ary":[{"id":"apiv1","sdmn":"","ky":"api_calls"}
+                                    ,{"id":"","sdmn":"","ky":"app_calls"}]},
+        "metrics_log":"metrics.log",
+        "session_info":{
+            "clearExpired": false,
+            "createDatabaseTable": false,
+            "acquireTimeout"	    : 5000,
+            "connectionLimit"	    : 10000,
+            "endConnectionOnClose": false,
+            "schema": {
+              "tableName": "user_session",
+              "columnNames": {
+                "session_id": "session_id",
+                "expires": "expires",
+                "data": "data"
+              }
+            }
+          },
+          "apps": [
+            {
+              "name": "SIFY",
+              "script": "devsifynode.js",
+              "max_handles": 10000
+            }
+          ]
+    }
+}

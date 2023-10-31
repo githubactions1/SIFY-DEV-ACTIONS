@@ -1,0 +1,358 @@
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-09-17 21:07:05"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-09-17 21:07:05"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-09-17 21:08:31"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-09-17 21:08:31"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-09-17 21:12:31"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-09-17 21:12:31"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-09-17 21:20:13"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-09-17 21:20:13"}
+{"level":"error","message":"Error processing request srvcnowcreatetaskCtrl in if new condition: TypeError: Cannot read properties of undefined (reading 'emp_id')","timestamp":"2023-09-17 21:20:13"}
+{"level":"error","message":"Error processing request srvcnowcreatetaskCtrl in if new condition: TypeError: Cannot read properties of undefined (reading 'emp_id')","timestamp":"2023-09-17 21:20:13"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-09-17 21:22:30"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-09-17 21:22:30"}
+{"level":"error","message":"Error processing request srvcnowcreatetaskCtrl in if new condition: JSON.stringify(TypeError: Cannot read properties of undefined (reading 'emp_id'))","timestamp":"2023-09-17 21:22:30"}
+{"level":"error","message":"Error processing request srvcnowcreatetaskCtrl in if new condition: JSON.stringify(TypeError: Cannot read properties of undefined (reading 'emp_id'))","timestamp":"2023-09-17 21:22:30"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-09-17 21:24:18"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-09-17 21:24:18"}
+{"level":"error","message":"Error processing request srvcnowcreatetaskCtrl in if new condition: {}","timestamp":"2023-09-17 21:24:18"}
+{"level":"error","message":"Error processing request srvcnowcreatetaskCtrl in if new condition: {}","timestamp":"2023-09-17 21:24:18"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-09-17 21:25:42"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-09-17 21:25:42"}
+{"level":"error","message":"Error processing request srvcnowcreatetaskCtrl in if new condition: TypeError: Cannot read properties of undefined (reading 'emp_id')","timestamp":"2023-09-17 21:25:42"}
+{"level":"error","message":"Error processing request srvcnowcreatetaskCtrl in if new condition: TypeError: Cannot read properties of undefined (reading 'emp_id')","timestamp":"2023-09-17 21:25:42"}
+{"level":"error","message":"Error processing request srvcnowcreatetaskCtrl in if new condition: {}","timestamp":"2023-09-17 21:25:42"}
+{"level":"error","message":"Error processing request srvcnowcreatetaskCtrl in if new condition: {}","timestamp":"2023-09-17 21:25:42"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-09-17 21:27:46"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-09-17 21:27:46"}
+{"level":"error","message":"Error processing request srvcnowcreatetaskCtrl in if new condition: TypeError: Cannot read properties of undefined (reading 'emp_id')\n    at /home/centos/glits/code/nodejs/SIFY_server/server/modules/servicenow/controllers/servicenowCtrl.js:633:55\n    at processTicksAndRejections (node:internal/process/task_queues:96:5)","timestamp":"2023-09-17 21:27:46"}
+{"level":"error","message":"Error processing request srvcnowcreatetaskCtrl in if new condition: TypeError: Cannot read properties of undefined (reading 'emp_id')\n    at /home/centos/glits/code/nodejs/SIFY_server/server/modules/servicenow/controllers/servicenowCtrl.js:633:55\n    at processTicksAndRejections (node:internal/process/task_queues:96:5)","timestamp":"2023-09-17 21:27:46"}
+{"level":"error","message":"Error processing request srvcnowcreatetaskCtrl in if new condition: {}","timestamp":"2023-09-17 21:27:46"}
+{"level":"error","message":"Error processing request srvcnowcreatetaskCtrl in if new condition: {}","timestamp":"2023-09-17 21:27:46"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-09-17 21:37:33"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-09-17 21:37:33"}
+{"level":"error","message":"Error processing request srvcnowcreatetaskCtrl in if new condition: TypeError: Cannot read properties of undefined (reading 'emp_id')\n    at /home/centos/glits/code/nodejs/SIFY_server/server/modules/servicenow/controllers/servicenowCtrl.js:633:55\n    at processTicksAndRejections (node:internal/process/task_queues:96:5)","timestamp":"2023-09-17 21:37:33"}
+{"level":"error","message":"Error processing request srvcnowcreatetaskCtrl in if new condition: TypeError: Cannot read properties of undefined (reading 'emp_id')\n    at /home/centos/glits/code/nodejs/SIFY_server/server/modules/servicenow/controllers/servicenowCtrl.js:633:55\n    at processTicksAndRejections (node:internal/process/task_queues:96:5)","timestamp":"2023-09-17 21:37:33"}
+{"level":"error","message":"Error processing request srvcnowcreatetaskCtrl in if new condition: {}","timestamp":"2023-09-17 21:37:33"}
+{"level":"error","message":"Error processing request srvcnowcreatetaskCtrl in if new condition: {}","timestamp":"2023-09-17 21:37:33"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-09-17 21:42:11"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-09-17 21:42:11"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-09-17 21:43:13"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-09-17 21:43:13"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-09-17 21:46:53"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-09-17 21:46:53"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-09-17 21:50:36"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-09-17 21:50:36"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl req 1 ${err} ${body}","timestamp":"2023-09-17 21:50:37"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl req 1 ${err} ${body}","timestamp":"2023-09-17 21:50:37"}
+{"level":"error","message":"Error processing request srvcnowcreatetaskCtrl in if pincodeSNdata.length == 0 Invalid Department Code","timestamp":"2023-09-17 21:50:37"}
+{"level":"error","message":"Error processing request srvcnowcreatetaskCtrl in if pincodeSNdata.length == 0 Invalid Department Code","timestamp":"2023-09-17 21:50:37"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-09-17 21:52:14"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-09-17 21:52:14"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl req 1 null {\n   \"error_message\" : \"You must enable Billing on the Google Cloud Project at https://console.cloud.google.com/project/_/billing/enable Learn more at https://developers.google.com/maps/gmp-get-started\",\n   \"results\" : [],\n   \"status\" : \"REQUEST_DENIED\"\n}","timestamp":"2023-09-17 21:52:14"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl req 1 null {\n   \"error_message\" : \"You must enable Billing on the Google Cloud Project at https://console.cloud.google.com/project/_/billing/enable Learn more at https://developers.google.com/maps/gmp-get-started\",\n   \"results\" : [],\n   \"status\" : \"REQUEST_DENIED\"\n}","timestamp":"2023-09-17 21:52:14"}
+{"level":"error","message":"Error processing request srvcnowcreatetaskCtrl in if pincodeSNdata.length == 0 Invalid Department Code","timestamp":"2023-09-17 21:52:14"}
+{"level":"error","message":"Error processing request srvcnowcreatetaskCtrl in if pincodeSNdata.length == 0 Invalid Department Code","timestamp":"2023-09-17 21:52:14"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-09-19 12:22:54"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-09-19 12:22:54"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-09-19 12:23:26"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-09-19 12:23:26"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-09-19 12:23:32"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-09-19 12:23:32"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-09-19 12:24:23"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-09-19 12:24:23"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-09-19 12:25:57"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-09-19 12:25:57"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-09-19 12:27:58"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-09-19 12:27:58"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-09-20 13:00:34"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-09-20 13:00:34"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-09-20 13:01:08"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-09-20 13:01:08"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-09-20 13:01:14"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-09-20 13:01:14"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-09-20 13:01:20"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-09-20 13:01:21"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-09-21 19:35:40"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-09-21 19:35:40"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-09-22 15:46:03"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-09-22 15:46:03"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-09-22 16:26:21"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-09-22 16:26:21"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-09-22 16:28:17"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-09-22 16:28:17"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-09-22 16:31:27"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-09-22 16:31:27"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-09-22 16:32:30"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-09-22 16:32:30"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-09-22 16:34:05"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-09-22 16:34:05"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-09-22 16:37:39"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-09-22 16:37:39"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-09-22 16:41:43"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-09-22 16:41:43"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-09-22 16:44:56"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-09-22 16:44:56"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-09-22 16:45:08"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-09-22 16:45:08"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-09-22 16:45:53"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-09-22 16:45:53"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-09-22 16:46:25"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-09-22 16:46:25"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl req 1 [object Object]","timestamp":"2023-09-22 16:46:25"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl req 1 [object Object]","timestamp":"2023-09-22 16:46:25"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-09-22 16:47:07"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-09-22 16:47:07"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl req 1 [object Object]","timestamp":"2023-09-22 16:47:07"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl req 1 [object Object]","timestamp":"2023-09-22 16:47:07"}
+{"level":"error","message":"Error processing request srvcnowcreatetaskCtrl in if pincodeSNdata.length == 0 Invalid Department Code","timestamp":"2023-09-22 16:47:07"}
+{"level":"error","message":"Error processing request srvcnowcreatetaskCtrl in if pincodeSNdata.length == 0 Invalid Department Code","timestamp":"2023-09-22 16:47:07"}
+{"level":"error","message":"Error processing request srvcnowcreatetaskCtrl in if new condition: TypeError: Cannot read properties of undefined (reading 'emp_id')","timestamp":"2023-09-22 16:47:07"}
+{"level":"error","message":"Error processing request srvcnowcreatetaskCtrl in if new condition: TypeError: Cannot read properties of undefined (reading 'emp_id')","timestamp":"2023-09-22 16:47:07"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-09-22 16:50:28"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-09-22 16:50:28"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl req 1 [object Object]","timestamp":"2023-09-22 16:50:28"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl req 1 [object Object]","timestamp":"2023-09-22 16:50:28"}
+{"level":"error","message":"Error processing request srvcnowcreatetaskCtrl in if pincodeSNdata.length == 0 Invalid Department Code","timestamp":"2023-09-22 16:50:28"}
+{"level":"error","message":"Error processing request srvcnowcreatetaskCtrl in if pincodeSNdata.length == 0 Invalid Department Code","timestamp":"2023-09-22 16:50:28"}
+{"level":"error","message":"Error processing request srvcnowcreatetaskCtrl in if new condition: TypeError: Cannot read properties of undefined (reading 'emp_id')","timestamp":"2023-09-22 16:50:28"}
+{"level":"error","message":"Error processing request srvcnowcreatetaskCtrl in if new condition: TypeError: Cannot read properties of undefined (reading 'emp_id')","timestamp":"2023-09-22 16:50:28"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-09-22 16:51:36"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-09-22 16:51:36"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl req 1 [object Object]","timestamp":"2023-09-22 16:51:37"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl req 1 [object Object]","timestamp":"2023-09-22 16:51:37"}
+{"level":"error","message":"Error processing request srvcnowcreatetaskCtrl in if new condition: TypeError: Cannot read properties of undefined (reading 'emp_id')","timestamp":"2023-09-22 16:51:37"}
+{"level":"error","message":"Error processing request srvcnowcreatetaskCtrl in if new condition: TypeError: Cannot read properties of undefined (reading 'emp_id')","timestamp":"2023-09-22 16:51:37"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-09-22 16:54:25"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-09-22 16:54:25"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl req 1 [object Object]","timestamp":"2023-09-22 16:54:25"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl req 1 [object Object]","timestamp":"2023-09-22 16:54:25"}
+{"level":"error","message":"Error processing request srvcnowcreatetaskCtrl in if new condition: TypeError: Cannot read properties of undefined (reading 'emp_id')","timestamp":"2023-09-22 16:54:25"}
+{"level":"error","message":"Error processing request srvcnowcreatetaskCtrl in if new condition: TypeError: Cannot read properties of undefined (reading 'emp_id')","timestamp":"2023-09-22 16:54:25"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-09-22 16:59:14"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-09-22 16:59:14"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl req 1 [object Object]","timestamp":"2023-09-22 16:59:14"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl req 1 [object Object]","timestamp":"2023-09-22 16:59:14"}
+{"level":"error","message":"Error processing request srvcnowcreatetaskCtrl in if new condition: ReferenceError: err is not defined","timestamp":"2023-09-22 16:59:14"}
+{"level":"error","message":"Error processing request srvcnowcreatetaskCtrl in if new condition: ReferenceError: err is not defined","timestamp":"2023-09-22 16:59:14"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-09-22 17:01:08"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-09-22 17:01:08"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl req 1 [object Object]","timestamp":"2023-09-22 17:01:08"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl req 1 [object Object]","timestamp":"2023-09-22 17:01:08"}
+{"level":"error","message":"Error processing request srvcnowcreatetaskCtrl in if new condition: Unknown owner identity","timestamp":"2023-09-22 17:01:08"}
+{"level":"error","message":"Error processing request srvcnowcreatetaskCtrl in if new condition: Unknown owner identity","timestamp":"2023-09-22 17:01:08"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-09-22 17:01:52"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-09-22 17:01:52"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl req 1 [object Object]","timestamp":"2023-09-22 17:01:52"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl req 1 [object Object]","timestamp":"2023-09-22 17:01:52"}
+{"level":"error","message":"Error processing request srvcnowcreatetaskCtrl in if new condition: Unknown owner identity","timestamp":"2023-09-22 17:01:52"}
+{"level":"error","message":"Error processing request srvcnowcreatetaskCtrl in if new condition: Unknown owner identity","timestamp":"2023-09-22 17:01:52"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-09-22 17:04:01"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-09-22 17:04:01"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl req 1 [object Object]","timestamp":"2023-09-22 17:04:01"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl req 1 [object Object]","timestamp":"2023-09-22 17:04:01"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-09-22 17:18:46"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-09-22 17:18:46"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl req 1 [object Object]","timestamp":"2023-09-22 17:18:47"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl req 1 [object Object]","timestamp":"2023-09-22 17:18:47"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-09-22 17:24:05"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-09-22 17:24:05"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl req 1 [object Object]","timestamp":"2023-09-22 17:24:05"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl req 1 [object Object]","timestamp":"2023-09-22 17:24:05"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-09-22 17:26:01"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-09-22 17:26:01"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl req 1 [object Object]","timestamp":"2023-09-22 17:26:01"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl req 1 [object Object]","timestamp":"2023-09-22 17:26:01"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-09-22 17:27:47"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-09-22 17:27:47"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl req 1 [object Object]","timestamp":"2023-09-22 17:27:47"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl req 1 [object Object]","timestamp":"2023-09-22 17:27:47"}
+{"level":"error","message":"Error processing request srvcnowcreatetaskCtrl in if new condition: TypeError: Converting circular structure to JSON\n    --> starting at object with constructor 'ClientRequest'\n    |     property 'socket' -> object with constructor 'TLSSocket'\n    --- property '_httpMessage' closes the circle","timestamp":"2023-09-22 17:27:47"}
+{"level":"error","message":"Error processing request srvcnowcreatetaskCtrl in if new condition: TypeError: Converting circular structure to JSON\n    --> starting at object with constructor 'ClientRequest'\n    |     property 'socket' -> object with constructor 'TLSSocket'\n    --- property '_httpMessage' closes the circle","timestamp":"2023-09-22 17:27:47"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-09-22 17:31:10"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-09-22 17:31:10"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl req 1 [object Object]","timestamp":"2023-09-22 17:31:10"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl req 1 [object Object]","timestamp":"2023-09-22 17:31:10"}
+{"level":"error","message":"Error processing request srvcnowcreatetaskCtrl in if new condition: TypeError: Converting circular structure to JSON\n    --> starting at object with constructor 'ClientRequest'\n    |     property 'socket' -> object with constructor 'TLSSocket'\n    --- property '_httpMessage' closes the circle","timestamp":"2023-09-22 17:31:11"}
+{"level":"error","message":"Error processing request srvcnowcreatetaskCtrl in if new condition: TypeError: Converting circular structure to JSON\n    --> starting at object with constructor 'ClientRequest'\n    |     property 'socket' -> object with constructor 'TLSSocket'\n    --- property '_httpMessage' closes the circle","timestamp":"2023-09-22 17:31:11"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-09-22 17:35:43"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-09-22 17:35:43"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl req 1 [object Object]","timestamp":"2023-09-22 17:35:43"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl req 1 [object Object]","timestamp":"2023-09-22 17:35:43"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-09-22 17:36:32"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-09-22 17:36:32"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl req 1 [object Object]","timestamp":"2023-09-22 17:36:32"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl req 1 [object Object]","timestamp":"2023-09-22 17:36:32"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-09-25 16:46:31"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-09-25 16:46:31"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-09-25 16:48:05"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-09-25 16:48:05"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-09-25 16:48:10"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-09-25 16:48:10"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-09-25 16:49:52"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-09-25 16:49:52"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-09-25 16:50:13"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-09-25 16:50:13"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-09-25 16:56:36"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-09-25 16:56:36"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-09-25 17:02:43"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-09-25 17:02:43"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl req 1 [object Object]","timestamp":"2023-09-25 17:02:43"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl req 1 [object Object]","timestamp":"2023-09-25 17:02:43"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-09-26 15:19:17"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-09-26 15:19:17"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-09-26 15:20:31"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-09-26 15:20:31"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-09-26 15:27:02"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-09-26 15:27:02"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-09-26 15:28:13"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-09-26 15:28:13"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-09-26 16:02:42"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-09-26 16:02:42"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-09-26 18:51:16"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-09-26 18:51:16"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-09-26 18:53:03"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-09-26 18:53:03"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-09-26 18:57:32"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-09-26 18:57:32"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-09-27 10:24:30"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-09-27 10:24:30"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-09-27 10:30:41"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-09-27 10:30:41"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-09-27 10:36:38"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-09-27 10:36:38"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-09-27 10:50:10"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-09-27 10:50:10"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-09-27 11:17:11"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-09-27 11:17:11"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-09-27 11:34:41"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-09-27 11:34:41"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-09-27 11:51:41"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-09-27 11:51:41"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-09-27 15:00:15"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-09-27 15:00:15"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-09-27 15:30:08"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-09-27 15:30:08"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-09-27 17:02:21"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-09-27 17:02:21"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl req 1 [object Object]","timestamp":"2023-09-27 17:02:22"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl req 1 [object Object]","timestamp":"2023-09-27 17:02:22"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-09-27 17:06:34"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-09-27 17:06:34"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-09-27 18:16:29"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-09-27 18:16:29"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-09-27 18:17:45"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-09-27 18:17:45"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-09-27 18:25:42"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-09-27 18:25:42"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-09-28 10:43:40"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-09-28 10:43:40"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-09-28 10:44:02"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-09-28 10:44:02"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-09-28 11:12:31"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-09-28 11:12:31"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-09-28 13:35:34"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-09-28 13:35:34"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-09-28 13:37:07"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-09-28 13:37:07"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-09-28 14:55:38"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-09-28 14:55:38"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-09-28 15:48:58"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-09-28 15:48:58"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-09-28 18:56:24"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-09-28 18:56:24"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-09-29 10:41:30"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-09-29 10:41:30"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-09-29 11:08:09"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-09-29 11:08:09"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-09-29 11:14:53"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-09-29 11:14:53"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-09-29 11:46:51"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-09-29 11:46:51"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-09-29 11:47:30"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-09-29 11:47:30"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-09-29 11:47:31"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-09-29 11:47:31"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-09-29 13:00:38"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-09-29 13:00:38"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-09-29 17:28:42"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-09-29 17:28:42"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-09-29 17:35:17"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-09-29 17:35:17"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-09-29 18:08:12"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-09-29 18:08:12"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-09-29 18:11:11"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-09-29 18:11:11"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-09-29 18:16:27"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-09-29 18:16:27"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-09-30 12:38:23"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-09-30 12:38:23"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-09-30 14:12:56"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-09-30 14:12:56"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl req 1 [object Object]","timestamp":"2023-09-30 14:12:56"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl req 1 [object Object]","timestamp":"2023-09-30 14:12:56"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl  [object Object]","timestamp":"2023-09-30 14:12:57"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl  [object Object]","timestamp":"2023-09-30 14:12:57"}
+{"level":"error","message":"Error processing request srvcnowcreatetaskCtrl in if new condition: ReferenceError: pinceodemapbody is not defined","timestamp":"2023-09-30 14:12:57"}
+{"level":"error","message":"Error processing request srvcnowcreatetaskCtrl in if new condition: ReferenceError: pinceodemapbody is not defined","timestamp":"2023-09-30 14:12:57"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-09-30 14:17:24"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-09-30 14:17:24"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl req 1 [object Object]","timestamp":"2023-09-30 14:17:24"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl req 1 [object Object]","timestamp":"2023-09-30 14:17:24"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl  [object Object]","timestamp":"2023-09-30 14:17:25"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl  [object Object]","timestamp":"2023-09-30 14:17:25"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-10-03 12:07:29"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-10-03 12:07:29"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-10-03 12:42:53"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-10-03 12:42:53"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-10-03 12:47:03"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-10-03 12:47:03"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-10-03 12:47:31"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-10-03 12:47:31"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-10-03 12:48:33"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-10-03 12:48:33"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-10-03 17:05:05"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-10-03 17:05:05"}
+{"level":"error","message":"Error processing request srvcnowcreatetaskCtrl in if new condition: Unknown owner identity","timestamp":"2023-10-03 17:05:05"}
+{"level":"error","message":"Error processing request srvcnowcreatetaskCtrl in if new condition: Unknown owner identity","timestamp":"2023-10-03 17:05:05"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-10-03 17:08:54"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-10-03 17:08:54"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-10-03 17:23:12"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-10-03 17:23:12"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-10-03 17:53:29"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-10-03 17:53:29"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-10-03 18:20:07"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-10-03 18:20:07"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-10-03 18:22:40"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-10-03 18:22:40"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-10-03 18:26:05"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-10-03 18:26:05"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-10-03 18:34:39"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-10-03 18:34:39"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-10-03 18:39:20"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-10-03 18:39:20"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-10-03 18:39:42"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-10-03 18:39:42"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-10-03 18:41:26"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-10-03 18:41:26"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-10-03 18:42:24"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-10-03 18:42:24"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-10-05 14:46:46"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-10-05 14:46:46"}
+{"level":"error","message":"Error processing request srvcnowcreatetaskCtrl in if pincodeSNdata.length == 0 Invalid Department Code","timestamp":"2023-10-05 14:46:46"}
+{"level":"error","message":"Error processing request srvcnowcreatetaskCtrl in if pincodeSNdata.length == 0 Invalid Department Code","timestamp":"2023-10-05 14:46:46"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-10-05 16:40:19"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-10-05 16:40:19"}
+{"level":"error","message":"Error processing request srvcnowcreatetaskCtrl in if new condition: Unknown owner identity","timestamp":"2023-10-05 16:40:19"}
+{"level":"error","message":"Error processing request srvcnowcreatetaskCtrl in if new condition: Unknown owner identity","timestamp":"2023-10-05 16:40:19"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-10-05 16:41:10"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-10-05 16:41:10"}
+{"level":"error","message":"Error processing request srvcnowcreatetaskCtrl in if new condition: Unknown owner identity","timestamp":"2023-10-05 16:41:10"}
+{"level":"error","message":"Error processing request srvcnowcreatetaskCtrl in if new condition: Unknown owner identity","timestamp":"2023-10-05 16:41:10"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-10-06 09:51:46"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-10-06 09:51:46"}
+{"level":"error","message":"Error processing request srvcnowcreatetaskCtrl in if new condition: Unknown owner identity","timestamp":"2023-10-06 09:51:46"}
+{"level":"error","message":"Error processing request srvcnowcreatetaskCtrl in if new condition: Unknown owner identity","timestamp":"2023-10-06 09:51:46"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-10-06 11:41:52"}
+{"level":"info","message":"Request processed successfully srvcnowcreatetaskCtrl","timestamp":"2023-10-06 11:41:52"}
+{"level":"error","message":"Error processing request srvcnowcreatetaskCtrl in if pincodeSNdata.length == 0 Invalid Department Code","timestamp":"2023-10-06 11:41:52"}
+{"level":"error","message":"Error processing request srvcnowcreatetaskCtrl in if pincodeSNdata.length == 0 Invalid Department Code","timestamp":"2023-10-06 11:41:52"}
