@@ -25,5 +25,5 @@ jobs:
         node-version: ${{ matrix.node-version }}
         cache: 'npm'
     - run: npm ci
-    - run: pm2 stop SIfyDevApp.js
-    - run: pm2 start SIfyDevApp.js
+    - run: pm2 stop ecosystem.config.js
+    - run: pm2 start ecosystem.config.js
